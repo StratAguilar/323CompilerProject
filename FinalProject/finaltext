@@ -1,0 +1,27 @@
+(*      Program Name: String 2014
+        Final Project
+---------------------------------------*)
+
+
+    PROGRAM xyz14;
+VAR
+
+   vw5, xy   ,   xyz, zxy4 : INTEGER; (*declare variables*)
+   
+BEGIN
+    vw5     =  5        ;
+    
+    
+    
+    writeln(  vw5 );
+    xy    =10;
+    
+    (* compute and print the result  *)
+    
+    xyz4=   2*(xy  + vw5)  ;
+    writeln(     xyz4    )   ;
+    
+    xyz   = 2*vw5  +  xyz;
+    writeln(   xyz    )    ;
+    
+END.

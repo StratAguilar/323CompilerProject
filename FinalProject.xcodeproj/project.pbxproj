@@ -28,6 +28,11 @@
 		982994991900DCD6008C4B03 /* FinalProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FinalProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		9829949C1900DCD6008C4B03 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9829949E1900DCD6008C4B03 /* FinalProject.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = FinalProject.1; sourceTree = "<group>"; };
+		9856FF7C191970B600ECAE6F /* CPlusPlusConversion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPlusPlusConversion.h; sourceTree = "<group>"; };
+		98D3F0361914053F00A9577E /* ProjectClean.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProjectClean.h; sourceTree = "<group>"; };
+		98D3F0371914A4F300A9577E /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+		98D3F03819154D1A00A9577E /* CheckError.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CheckError.h; sourceTree = "<group>"; };
+		98FE28E7191C45590057778F /* finaltext */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = finaltext; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +67,11 @@
 			children = (
 				9829949C1900DCD6008C4B03 /* main.cpp */,
 				9829949E1900DCD6008C4B03 /* FinalProject.1 */,
+				98D3F0361914053F00A9577E /* ProjectClean.h */,
+				98D3F0371914A4F300A9577E /* Stack.h */,
+				98D3F03819154D1A00A9577E /* CheckError.h */,
+				9856FF7C191970B600ECAE6F /* CPlusPlusConversion.h */,
+				98FE28E7191C45590057778F /* finaltext */,
 			);
 			path = FinalProject;
 			sourceTree = "<group>";
@@ -227,6 +237,7 @@
 				982994A41900DCD6008C4B03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
